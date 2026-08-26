@@ -1,0 +1,84 @@
+pre.stylecenter {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 21px;
+    line-height: 30px;
+    text-align: center;
+    color: #4d4d33;
+}
+
+pre.styleleft {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 21px;
+    line-height: 30px;
+    text-align: left;
+    color: #4d4d33;
+}
+
+pre.styleleft1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    line-height: 28px;
+    text-align: left;
+    color: #4d4d33;
+}
+
+pre.styleleft2 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    line-height: 20px;
+    text-align: left;
+    color: #4d4d33;
+}
+
+pre {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 21px;
+    line-height: 30px;
+}
+
+.sitebackground1 { 
+    background: url("sitebackground1.jpg");
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: center 70px; 
+}
+
+
+.sitebackground { 
+    background: url("sitebackground.jpg");
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: center 0px; 
+}
+
+.sitebackgroundblank { 
+    background: url("blankbackground.jpg");
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: center top;
+}
+
+.navbar {
+    overflow: hidden;
+    background-color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.navbar a {
+    float: center;
+    color: #324333;
+    text-align: center;
+    padding: 8px 4px; 
+    text-decoration: none;
+}
+
+.navbar a:hover {
+    background-color: lightgray;
+}
+
+.bottomright {
+    position: absolute;
+    bottom: 8px;
+    right: 16px;
+    font-size: 18px;
+}
